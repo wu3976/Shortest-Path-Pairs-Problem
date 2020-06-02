@@ -1,0 +1,7 @@
+0, 3.2, 4, inf, inf, inf, inf
+3, 0, 5, inf, 1, 2, inf
+4, inf, 0, inf, 2, inf, 9 ,
+inf, inf, inf, 0, 6, inf, 8
+inf, 1, 2, 6, 0, 5, inf
+inf, 2, inf, inf, 5, 0, 7
+2, inf, 9, 8, inf, 7, 0
